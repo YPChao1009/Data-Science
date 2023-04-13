@@ -21,7 +21,7 @@
 | NumPy 統計函式 <br> v2: NumPy 陣列的邏輯運算 | [Day_05_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_05_Markdown.ipynb) | [Day_05_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_05_HW_1.ipynb) <br> [Day_05_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_05_HW_2.ipynb) |
 | 使用 NumPy 存取各種檔案內容 <br> v2: NumPy 中常見的陣列方法與函式 | [Day_06_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_06_Markdown.ipynb) | [Day_06_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_06_HW_1.ipynb) <br> [Day_06_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_06_HW_2.ipynb) |
 | NumPy 的矩陣函式與線性代數應用 <br> v2: NumPy 陣列的索引、切片和迭代 | [Day_07_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_07_Markdown.ipynb) | [Day_07_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_07_HW_1.ipynb) <br> [Day_07_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_07_HW_2.ipynb) |
-| NumPy 結構化陣列(Structured Arrays) | [Day_08_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_08_Markdown.ipynb) | [Day_08_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_1.ipynb) <br> [Day_08_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_2.ipynb) |
+| NumPy 結構化陣列(Structured Arrays) | [Day_08_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_08_Markdown.ipynb) | [Day_08_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_1.ipynb)  |
 
 Back to [學習大綱](#學習大綱)
 
@@ -29,7 +29,7 @@ Back to [學習大綱](#學習大綱)
 
 | 主題 | 筆記 | 作業 | 
 | ---------- | :-----------: | :-----------: |  
-| v2: Pandas 物件的定義與屬性 | [Day_08_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_08_Markdown.ipynb) | [Day_08_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_1.ipynb) <br> [Day_08_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_2.ipynb) |  
+| v2: Pandas 物件的定義與屬性 | [Day_08_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_08_Markdown.ipynb) |  [Day_08_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_2.ipynb) |  
 | 使用 Pandas 讀寫各種常用的檔案格式 <br> v2: Pandas DataFrame 的初始化 | [Day_09_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_09_Markdown.ipynb) |  [Day_09_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_09_HW_1.ipynb) <br> [Day_09_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_09_HW_2.ipynb) |  
 | Pandas 資料索引操作(資料過濾、選擇、合併) <br> v2: Pandas DataFrame 的資料選取 | [Day_10_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_10_Markdown.ipynb) | [Day_10_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_10_HW_1.ipynb) <br> [Day_10_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_10_HW_2.ipynb) |  
 | Pandas 類別資料與缺失值處理 <br> v2: Pandas 中的算術運算特性 | [Day_11_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_11_Markdown.ipynb) | [Day_11_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_11_HW_1.ipynb) <br> [Day_11_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_11_HW_2.ipynb) |  
