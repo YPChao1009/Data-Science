@@ -13,7 +13,7 @@
 ## NumPy_程式開發實作
 
 | 主題 | 筆記 | 作業 | 
-| ---------- | :-----------: | :-----------: | :-----------: | 
+| ---------- | :-----------: | :-----------: |  
 | NumPy 基本操作 <br> v2: NumPy 陣列的定義與屬性 | [Day_01_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_01_Markdown.ipynb) | [Day_01_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_01_HW_1.ipynb) <br> [Day_01_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_01_HW_2.ipynb) |  
 | NumPy 陣列進階操作 <br> v2: NumPy 陣列中不同的資料型態 | [Day_02_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_02_Markdown.ipynb)  | [Day_02_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_02_HW_1.ipynb) <br> [Day_02_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_02_HW_2.ipynb) |
 | NumPy 陣列運算及數學函式 <br> v2: NumPy 陣列的初始化 | [Day_03_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_03_Markdown.ipynb)  | [Day_03_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_03_HW_1.ipynb) <br> [Day_03_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_03_HW_2.ipynb) |
@@ -28,7 +28,7 @@ Back to [學習大綱](#學習大綱)
 ## Pandas_程式開發實作
 
 | 主題 | 筆記 | 作業 | 
-| ---------- | :-----------: | :-----------: | :-----------: | 
+| ---------- | :-----------: | :-----------: |  
 | v2: Pandas 物件的定義與屬性 | [Day_08_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_08_Markdown.ipynb) | [Day_08_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_1.ipynb) <br> [Day_08_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_08_HW_2.ipynb) |  
 | 使用 Pandas 讀寫各種常用的檔案格式 <br> v2: Pandas DataFrame 的初始化 | [Day_09_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_09_Markdown.ipynb) |  [Day_09_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_09_HW_1.ipynb) <br> [Day_09_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_09_HW_2.ipynb) |  
 | Pandas 資料索引操作(資料過濾、選擇、合併) <br> v2: Pandas DataFrame 的資料選取 | [Day_10_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_10_Markdown.ipynb) | [Day_10_HW_1](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_10_HW_1.ipynb) <br> [Day_10_HW_2](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_10_HW_2.ipynb) |  
@@ -45,7 +45,7 @@ Back to [學習大綱](#學習大綱)
 ## Matplotlib/Seaborn_資料視覺化  
 
 | 主題 | 筆記 | 作業 | 
-| ---------- | :-----------: | :-----------: | :-----------: | 
+| ---------- | :-----------: | :-----------: |  
 | Python 資料視覺化工具與常見統計圖表介紹 | [Day_18_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_18_Markdown.ipynb) | [Day_18_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_18_HW_1.ipynb) | 
 | 使用 Matplotlib 繪製各種常用圖表 | [Day_19_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_19_Markdown.ipynb) | [Day_19_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_19_HW_1.ipynb) | 
 | 使用 Seaborn 進行資料視覺化 | [Day_20_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_20_Markdown.ipynb) | [Day_20_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_20_HW_1.ipynb) | 
@@ -84,7 +84,7 @@ Back to [學習大綱](#學習大綱)
 - [How Bayesian inference works](https://e2eml.school/how_bayesian_inference_works.html)
 
 | 主題 | 範例 | 作業 |  
-| ---------- | :-----------: | :-----------: | :-----------: | 
+| ---------- | :-----------: | :-----------: |  
 | 用統計描述資料的樣態 | [Day_26_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_26_Markdown.ipynb) | [Day_26_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_26_HW_1.ipynb) | 
 | 用機率分佈描述亂中有序的世界 - 離散型分配(1) | [Day_27_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_27_Markdown.ipynb) | [Day_27_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_27_HW_1.ipynb) | 
 | 用機率分佈描述亂中有序的世界 - 離散型分配(2) | [Day_28_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_28_Markdown.ipynb) | [Day_28_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_28_HW_1.ipynb) | 
