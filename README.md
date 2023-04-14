@@ -82,7 +82,7 @@ Back to [學習大綱](#學習大綱)
 - [Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
 - [How Bayesian inference works](https://e2eml.school/how_bayesian_inference_works.html)
 
-| 主題 | 範例 | 作業 |  
+| 主題 | 筆記 | 作業 |  
 | ---------- | :-----------: | :-----------: |  
 | 用統計描述資料的樣態 | [Day_26_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_26_Markdown.ipynb) | [Day_26_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_26_HW_1.ipynb) | 
 | 用機率分佈描述亂中有序的世界 - 離散型分配(1) | [Day_27_Markdown](https://github.com/YPChao1009/Data-Science/blob/master/Markdown/Day_27_Markdown.ipynb) | [Day_27_HW](https://github.com/YPChao1009/Data-Science/blob/master/Homework/Day_27_HW_1.ipynb) | 
