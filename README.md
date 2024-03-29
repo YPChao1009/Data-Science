@@ -1,6 +1,6 @@
-# Python 資料科學程式馬拉松
+# Python 資料科學
  
-[課程連結](https://www.cupoy.com/marathon/00000174C4BC1B93000000016375706F795F70726572656C656173654355)
+[Cite:](https://www.cupoy.com/marathon/00000174C4BC1B93000000016375706F795F70726572656C656173654355)
 
 ## 學習大綱
 * [NumPy 程式開發實作](#NumPy_程式開發實作)
